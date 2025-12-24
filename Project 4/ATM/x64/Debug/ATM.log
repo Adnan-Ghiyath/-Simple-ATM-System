@@ -1,0 +1,5 @@
+﻿  ATM.cpp
+C:\Users\pcfam\Documents\Programming Advices\C++ Project\Project 4\ATM\ATM.cpp(36,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\pcfam\Documents\Programming Advices\C++ Project\Project 4\ATM\ATM.cpp(277,6): error C2084: function 'void ShowQuickWithDrawScreen(void)' already has a body
+C:\Users\pcfam\Documents\Programming Advices\C++ Project\Project 4\ATM\ATM.cpp(269,6): message : see previous definition of 'ShowQuickWithDrawScreen'
+C:\Users\pcfam\Documents\Programming Advices\C++ Project\Project 4\ATM\ATM.cpp(312,3): error C2065: 'ShowQuickWithDrawScreen': undeclared identifier
